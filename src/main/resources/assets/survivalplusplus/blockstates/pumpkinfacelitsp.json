@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "survivalplusplus:pumpkinfacelitsp" },
+        "facing=south": { "model": "survivalplusplus:pumpkinfacelitsp", "y": 180 },
+        "facing=west":  { "model": "survivalplusplus:pumpkinfacelitsp", "y": 270 },
+        "facing=east":  { "model": "survivalplusplus:pumpkinfacelitsp", "y": 90 }
+    }
+}

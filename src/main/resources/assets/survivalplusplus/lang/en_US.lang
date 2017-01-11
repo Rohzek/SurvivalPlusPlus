@@ -1,0 +1,129 @@
+key.categories.survivalplusplus=Survival++
+key.zoomSP=Focus
+
+itemGroup.blocksTab=Survival++ Blocks
+itemGroup.foodsTab=Survival++ Food
+itemGroup.ingotsTab=Survival++ Ingots
+itemGroup.ingredientsTab=Survival++ Ingredients
+itemGroup.toolPartsTab=Survival++ Tool Parts
+itemGroup.toolsTab=Survival++ Tools
+
+item.appleSP.name=Apple
+item.beefSP.name=Raw Beef
+item.beefCookedSP.name=Steak
+item.breadSP.name=Bread
+item.chickenSP.name=Raw Chicken
+item.chickenCookedSP.name=Cooked Chicken
+item.chorusFruitSP.name=Chorus Fruit
+item.clownFishSP.name=Clownfish
+item.cookieSP.name=Cookie
+item.fishSP.name=Cod
+item.fishCookedSP.name=Cooked Cod
+item.melonSliceSP.name=Slice of Melon
+item.muttonSP.name=Raw Mutton
+item.muttonCookedSP.name=Cooked Mutton
+item.porkSP.name=Raw Porkchop
+item.porkCookedSP.name=Cooked Porkchop
+item.potatoCookedSP.name=Baked Potato
+item.pumpkinPieSP.name=Pumpkin Pie
+item.rabbitSP.name=Raw Rabbit
+item.rabbitCookedSP.name=Cooked Rabbit
+item.salmonSP.name=Raw Salmon
+item.salmonCookedSP.name=Cooked Salmon
+
+item.andrMeatSP.name=Raw Andr Meat
+item.andrMeatCookedSP.name=Cooked Andr Meat
+item.calamariSP.name=Raw Calamari
+item.calamariCookedSP.name=Cooked Calamari
+item.carrotCookedSP.name=Steamed Carrot
+item.eggCookedSP.name=Poached Egg
+item.horseBeefSP.name=Raw Horse Beef
+item.horseBeefCookedSP.name=Cooked Horse Beef
+item.longPorkSP.name=Raw Long Pork
+item.longPorkCookedSP.name=Cooked Long Pork
+item.mushroomBrownGrilledSP.name=Grilled Brown Mushroom
+item.mushroomRedGrilledSP.name=Grilled Red Mushroom
+item.riceCookedSP.name=Cooked Rice
+item.sushiSP.name=Sushi (Fish)
+item.sushiClownfishSP.name=Sushi (Clownfish)
+item.sushiPufferfishSP.name=Sushi (Pufferfish)
+item.sushiSalmonSP.name=Sushi (Salmon)
+
+item.beetrootSP.name=Beetroot
+item.carrotSP.name=Carrot
+item.potatoSP.name=Potato
+
+item.beetRootSoupSP.name=Beetroot Soup
+item.mushroomStewSP.name=Mushroom Stew
+item.rabbitStewSP.name=Rabbit Stew
+item.beefStewSP.name=Beef Stew
+item.chickenDumplingsSP.name=Chicken and Dumplings   
+        
+item.andrMeatSaltedSP.name=Salted Andr Meat
+item.beefSaltedSP.name=Salted Steak
+item.chickenSaltedSP.name=Salted Chicken
+item.horseBeefSaltedSP.name=Salted Horse Beef
+item.longPorkSaltedSP.name=Salted Long Pork
+item.porkSaltedSP.name=Salted Porkchop
+item.muttonSaltedSP.name=Salted Mutton
+
+item.pumpkinBowlSP.name=Pumpkin Puree
+
+tile.melonSP.name=Melon
+tile.pumpkinSP.name=Pumpkin
+tile.pumpkinFaceSP.name=Unlit Jack o'Lantern
+tile.pumpkinFaceLitSP.name=Jack o'Lantern
+tile.steelBlockSP.name=Block of Steel
+
+item.steelIngotSP.name=Steel Ingot
+item.steelNuggetSP.name=Steel Nugget
+
+item.diamondAxeHeadSP.name=Diamond Axe Head
+item.diamondHoeHeadSP.name=Diamond Hoe Head
+item.diamondPickaxeHeadSP.name=Diamond Pickaxe Head
+item.diamondShovelHeadSP.name=Diamond Shovel Head
+item.diamondSwordBladeSP.name=Diamond Sword Blade
+item.flintAxeHeadSP.name=Flint Axe Head
+item.flintHoeHeadSP.name=Flint Hoe Head
+item.flintPickaxeHeadSP.name=Flint Pickaxe Head
+item.flintShovelHeadSP.name=Flint Shovel Head
+item.flintSwordBladeSP.name=Flint Sword Blade
+item.goldAxeHeadSP.name=Golden Axe Head
+item.goldHoeHeadSP.name=Golden Hoe Head
+item.goldPickaxeHeadSP.name=Golden Pickaxe Head
+item.goldShovelHeadSP.name=Golden Shovel Head
+item.goldSwordBladeSP.name=Golden Sword Blade
+item.ironAxeHeadSP.name=Iron Axe Head
+item.ironHoeHeadSP.name=Iron Hoe Head
+item.ironPickaxeHeadSP.name=Iron Pickaxe Head
+item.ironShovelHeadSP.name=Iron Shovel Head
+item.ironSwordBladeSP.name=Iron Sword Blade
+item.steelAxeHeadSP.name=Steel Axe Head
+item.steelHoeHeadSP.name=Steel Hoe Head
+item.steelPickaxeHeadSP.name=Steel Pickaxe Head
+item.steelShovelHeadSP.name=Steel Shovel Head
+item.steelSwordBladeSP.name=Steel Sword Blade
+item.stoneAxeHeadSP.name=Stone Axe Head
+item.stoneHoeHeadSP.name=Stone Hoe Head
+item.stonePickaxeHeadSP.name=Stone Pickaxe Head
+item.stoneShovelHeadSP.name=Stone Shovel Head
+item.stoneSwordBladeSP.name=Stone Sword Blade
+item.woodAxeHeadSP.name=Wooden Axe Head
+item.woodHoeHeadSP.name=Wooden Hoe Head
+item.woodPickaxeHeadSP.name=Wooden Pickaxe Head
+item.woodShovelHeadSP.name=Wooden Shovel Head
+item.woodSwordBladeSP.name=Wooden Sword Blade
+
+item.toolHandleSP.name=Wooden Tool Handle
+
+item.flintAxeSP.name=Flint Axe
+item.flintHoeSP.name=Flint Hoe
+item.flintPickaxeSP.name=Flint Pickaxe
+item.flintSwordSP.name=Flint Sword
+item.steelAxeSP.name=Steel Axe
+item.steelHoeSP.name=Steel Hoe
+item.steelPickaxeSP.name=Steel Pickaxe
+item.steelSwordSP.name=Steel Sword
+
+item.toolFileSP.name=File
+item.toolHammerSP.name=Hammer

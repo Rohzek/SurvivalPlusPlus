@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "survivalplusplus:blocks/pumpkintop",
+        "front": "survivalplusplus:blocks/pumpkinfacelit",
+        "side": "survivalplusplus:blocks/pumpkinside"
+    }
+}
